@@ -37,5 +37,5 @@
 1. **Repository’ni Klonlash**:
 
    ```bash
-   git clone https://github.com/your-org/minimaapi.git
+   git clone https://github.com/MirabbosEgamberdiyev/MinimaAPI.git
    cd minimaapi
