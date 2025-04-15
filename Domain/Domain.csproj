@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Library</OutputType>
+		<!-- ✨ Shu yer o‘zgardi -->
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<!-- Microsoft.Extensions.Identity.Stores is part of ASP.NET Core Identity -->
+		<PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="8.0.0" />
+	</ItemGroup>
+
+</Project>
